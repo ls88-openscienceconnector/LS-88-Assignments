@@ -4,3 +4,4 @@ scipy
 matplotlib
 pandas
 rpy2
+gofer-grader
