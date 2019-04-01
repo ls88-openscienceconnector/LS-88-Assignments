@@ -25,3 +25,7 @@
 [NotebookApp | INFO] Adapting to protocol v5.1 for kernel 30495f4b-6e7b-4e2a-ab65-ff62189c9f13
 [NotebookApp | INFO] Saving file at /lab06/lab06.ipynb
 [NotebookApp | INFO] Starting buffering for 30495f4b-6e7b-4e2a-ab65-ff62189c9f13:12dad25ade7240549e9693a0fa56e67e
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 30495f4b-6e7b-4e2a-ab65-ff62189c9f13
