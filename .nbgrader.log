@@ -8,3 +8,7 @@
 [NotebookApp | INFO] Kernel started: e80f1099-9d76-444c-975a-27218b320095
 [NotebookApp | INFO] Adapting to protocol v5.1 for kernel e80f1099-9d76-444c-975a-27218b320095
 [NotebookApp | INFO] Starting buffering for e80f1099-9d76-444c-975a-27218b320095:c02a4e0c79804a4e803929d82fe06170
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: e80f1099-9d76-444c-975a-27218b320095
