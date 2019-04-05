@@ -5,3 +5,4 @@ matplotlib
 pandas
 rpy2
 gofer-grader
+sklearn
