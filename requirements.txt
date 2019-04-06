@@ -6,3 +6,5 @@ pandas
 rpy2
 gofer-grader
 sklearn
+folium
+pickle
