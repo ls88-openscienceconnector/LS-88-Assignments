@@ -41,3 +41,7 @@
 [NotebookApp | INFO] Adapting to protocol v5.1 for kernel 9e48523d-4df8-4e5e-b6ec-a39dee8acea0
 [NotebookApp | INFO] Saving file at /overplotting.ipynb
 [NotebookApp | INFO] Starting buffering for 9e48523d-4df8-4e5e-b6ec-a39dee8acea0:74e17fc98dd74fe98539259db9e03cf0
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 9e48523d-4df8-4e5e-b6ec-a39dee8acea0
