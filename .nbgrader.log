@@ -60,3 +60,17 @@
 [NotebookApp | CRITICAL] Shutdown confirmed
 [NotebookApp | INFO] Shutting down 1 kernel
 [NotebookApp | INFO] Kernel shutdown: 9cd4cd03-a63d-46a1-9238-d4cf428928c7
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/chrispyles/GitHub/LS-88-Assignments
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: b2baa7f8-31a7-4f8f-9a0d-5050470a1dbc
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b2baa7f8-31a7-4f8f-9a0d-5050470a1dbc
+[NotebookApp | INFO] Saving file at /overplotting.ipynb
+[NotebookApp | INFO] Saving file at /overplotting.ipynb
+[NotebookApp | INFO] Saving file at /overplotting.ipynb
+[NotebookApp | INFO] Saving file at /overplotting.ipynb
+[NotebookApp | INFO] Starting buffering for b2baa7f8-31a7-4f8f-9a0d-5050470a1dbc:71f7cba282e64ec68d8bd1f569fb5caf
