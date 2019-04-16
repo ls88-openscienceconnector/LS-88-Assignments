@@ -74,3 +74,7 @@
 [NotebookApp | INFO] Saving file at /overplotting.ipynb
 [NotebookApp | INFO] Saving file at /overplotting.ipynb
 [NotebookApp | INFO] Starting buffering for b2baa7f8-31a7-4f8f-9a0d-5050470a1dbc:71f7cba282e64ec68d8bd1f569fb5caf
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: b2baa7f8-31a7-4f8f-9a0d-5050470a1dbc
